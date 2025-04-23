@@ -1,4 +1,4 @@
 # GyroGuardians
-Hello everyone!!!
-This repo is created for Industry Oriented Course
+Hello everyone!!!🙋‍♂️
+This repo is created for Industry Oriented Course 🏭
 
